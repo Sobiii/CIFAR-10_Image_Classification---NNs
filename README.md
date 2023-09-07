@@ -1,4 +1,4 @@
-# Neural Networks Project: Image Classification with CIFAR-10
+# Neural Networks: Image Classification with CIFAR-10
 
 ## Overview
 In this project, I have built a robust CNN to categorize images into one of the ten available classes in the CIFAR-10 dataset. Leveraging deep learning techniques, the model recognizes patterns and features in images to accurately classify them.<br>
